@@ -5,7 +5,7 @@ a simple guide how to use this:
 # On Ubuntu/Mint and systems that use APT
 1. first, make sure git is installed, or just download the script from here.
 2. clone it into home, or a folder in home (i do `git clone <url> psi` for my tests)
-3. type `chmod 777 <dir>/ps2install.sh
+3. type `chmod 777 <dir>/ps2install.sh`
 4. type ./ps2devinstall
 **5. Currently, there's a bug where the terminal doesn't reset in the middle, so you may need to delete the ps2dev and ps2eth folders in home and re-run it after a reboot.**
 6. navigate to /usr/local/ps2dev 
